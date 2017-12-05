@@ -1,0 +1,5 @@
+P21-true v B11-false
+P12-false v B11-true v P21-false
+B11-false v P12-true
+B11-true
+P21-false v P12-false v B11-true
